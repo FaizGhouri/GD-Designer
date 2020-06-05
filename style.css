@@ -1,0 +1,341 @@
+.navbar{
+    background-color: #ffd700 !important;
+} 
+
+.logo1,.fg{
+    width: 150px;
+    height: 120px;
+}
+
+.way{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: #1C2833 ;
+}
+
+.away{
+    text-align: center;
+    font-size: 1.5em;
+    background-color: #1C2833 ;
+    color: ivory;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 350px;
+    margin-top: 30px;
+}
+
+
+.button{
+    color: #1C2833 ;
+}
+
+
+.navbar-brand{
+    font-weight: bolder;
+    font-size: 3em;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+
+}
+
+.nav-link{
+    font-weight: 500;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+:hover.nav-link{
+    border: 2px #979A9A solid;
+}
+
+
+.d-block{
+    width: auto;
+    height: 500px;
+} 
+
+.GW{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: #1C2833; 
+}
+
+.our{
+    font-size: 3em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #7F8C8D;
+    font-style: italic;
+}
+
+.gall{
+    font-size: 3em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #566573 ;
+    font-style: italic;
+}
+
+hr{
+    border: 1px solid;
+    margin-top: -10px;
+
+}
+
+.cd{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    background-color: #A6ACAF; 
+
+    
+}
+
+.card-body{
+    border: none;
+    background-color: rgb(228, 224, 224);
+    box-shadow: rgb(99, 98, 98) 4px 2px 8px 4px;
+}
+.card-text{
+    font-weight: bold;
+
+
+}
+ 
+.card{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    background-color: lightgrey;
+    box-shadow: rgb(99, 98, 98) 4px 2px 8px 4px;
+    border: none;
+}
+
+
+    
+.finish{
+    background-color: #1C2833; 
+    width: 100%;
+    height: 250px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.last{
+    color: #A6ACAF !important;
+    text-align: center;
+}
+
+.fa-whatsapp{
+    color: green !important;
+}
+
+.fa{
+    width: 30px !important;
+    height: 40px !important; 
+   
+}
+
+.simple{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: #4D5656;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+hr{
+    width: 80%;
+}
+
+.list{
+    background-color: rgb(227, 232, 233);
+    height: 400pt;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    height: 750px;
+
+}
+
+.end{
+    background-color: #1C2833 !important;
+    height: 100px;
+    text-shadow: ivory 1px 2px 2px;
+    text-align: center;
+
+}
+
+.text{
+    margin-top: 20px;
+}
+
+
+.in{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    color: ivory  !important;
+    
+}
+
+.listpana{
+    background-color: rgb(227, 232, 233);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+
+.about{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.f{
+    width: 200px;
+    height: 250px;
+    margin-left: 50px;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+
+
+
+.us{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-shadow: gray 3px 5px 4px;
+    
+}
+
+.th{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 80px;
+
+}
+
+.para{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    font-size: 1.3em;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    justify-content: space-around;
+}
+
+.icon{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 50px;
+    justify-content: space-around;
+
+}
+
+
+
+.low{
+    height: 25px;
+    background-color: rgb(199, 193, 193);
+    margin-top: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.bk{
+    height: 600px;
+    width: 100%;
+}
+
+
+.contact{
+    justify-content: center;
+    background-color: rgb(59, 68, 77);
+}
+
+.con{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    color: ivory;
+    font-size: 4em;
+    font-weight: lighter;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.line{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    color: ivory;
+    justify-content: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.one{
+    color: ivory;
+    text-align: center;
+}
+ 
+.tab{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content:center;
+
+
+}
+
+.snd{
+    width: 235px;
+
+}
+
+.add{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    color: ivory;
+    margin-left: 200px;
+    
+}
+
+.join{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+
+}
+
+.font{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
